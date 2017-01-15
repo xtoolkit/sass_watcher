@@ -16,5 +16,5 @@ this app created for when ruby Sass watcher not working.
 any file changed in `./scss_path` updated scss with bottom comment:
 
 ```
-scss --quiet --update $scss_main_path:$css_main_path
+  $ scss --quiet --update $scss_main_path:$css_main_path
 ```
